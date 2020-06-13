@@ -11,3 +11,11 @@ https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-link
 <h2>tech interview handbook</h2>
 
 https://yangshun.github.io/tech-interview-handbook/introduction/
+
+<h3>Top 50 Google tagged questions. (With Links)</h3>
+
+https://leetcode.com/discuss/general-discussion/677506/Top-50-Google-tagged-questions.-(With-Links)
+
+#Article on Trie. General Template and List of problems.
+
+https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems.
