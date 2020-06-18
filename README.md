@@ -19,3 +19,8 @@ https://leetcode.com/discuss/general-discussion/677506/Top-50-Google-tagged-ques
 #Article on Trie. General Template and List of problems.
 
 https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems.
+
+
+#Binary Search for Beginners [Problems | Patterns | Sample solutions]
+
+https://leetcode.com/discuss/general-discussion/691825/binary-search-for-beginners-problems-patterns-sample-solutions
