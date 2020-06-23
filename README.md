@@ -24,3 +24,7 @@ https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-
 #Binary Search for Beginners [Problems | Patterns | Sample solutions]
 
 https://leetcode.com/discuss/general-discussion/691825/binary-search-for-beginners-problems-patterns-sample-solutions
+
+#Interview Preparation for Beginners - [ DS | Algorithms | OS | System Design 
+
+https://leetcode.com/discuss/general-discussion/698684/Interview-Preparation-for-Beginners-DS-or-Algorithms-or-OS-or-System-Design
